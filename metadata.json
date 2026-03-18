@@ -1,0 +1,5 @@
+{
+  "name": "Audio to SRT Transcriber",
+  "description": "Upload audio files and generate accurate SRT subtitle files using Gemini AI.",
+  "requestFramePermissions": []
+}
